@@ -17,6 +17,6 @@
 
 
 
-![The San Juan Mountains are beautiful!](/assets\images\infortech_logo.jpg "Infortech")
 
 
+![infortech_logo](https://user-images.githubusercontent.com/78573126/159976630-293ad186-4071-474e-8fe5-561e3bf5aacc.jpg)
